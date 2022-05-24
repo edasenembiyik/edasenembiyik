@@ -1,4 +1,7 @@
 <h1 align="center">Hi there 👋, I'm I am Eda Senem !</h1>
+
+![image](https://user-images.githubusercontent.com/96740740/170122472-9c4a5155-9255-4af5-9336-f1557910f0b0.png)
+
 <h3 align="center">A candidate of "Full Stack Developer" from Turkey</h3>
 
 - 🌱 I’m currently learning **Java, JS**
