@@ -18,6 +18,3 @@
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaozturk0614&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafaozturk0614&show_icons=true&theme=tokyonight)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mustafaozturk0614&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
